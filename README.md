@@ -1,4 +1,4 @@
-# ⚙️ Public Speaking Workshop
+# 📣 Public Speaking Workshop
 
 ```
 $ npx serve
