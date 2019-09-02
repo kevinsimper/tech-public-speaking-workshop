@@ -32,10 +32,3 @@ class: middle
 20:00 Community time
 20:30 Thank you for this time - door closes
 ```
-
----
-
-# Why and how
-
-- Why do you want to give tech talk?
-- How many times have you thought about it and gave up?
