@@ -5,4 +5,4 @@ $ npx serve
 ```
 
 See it online:
-https://my-first-tech-talk.surge.sh
+https://public-speaking.surge.sh/
